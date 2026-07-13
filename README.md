@@ -1,7 +1,8 @@
 # Tarek Hayan
 
 <p align="center">
-  <img src="hero_banner.png" alt="Tarek Hayan Hero Banner" width="100%">
+  <img src="<img width="1254 height="1254" alt="شكل الشخصيه" src="https://github.com/user-attachments/assets/1084a068-d778-4e87-aa70-35ad00528205" />
+">
 </p>
 
 ### Flutter Developer | Continuous Learner | Knowledge Sharer
@@ -53,8 +54,8 @@ My journey as a developer is fueled by an insatiable curiosity. I'm always divin
 
 ## 🔗 Connect
 
-*   **GitHub**: [TarekHayan](https://github.com/TarekHayan)
-*   **LinkedIn**: [Tarek Hayan](https://www.linkedin.com/in/tarekhayan/)
+*   **GitHub**: [TarekHayan](https://github.com/TarekHaya)
+*   **LinkedIn**: [Tarek Hayan](www.linkedin.com/in/tarek-hayan-5633b2399)
 *   **Email**: tarekhayan77@gmail.com
 
 <p align="center">
