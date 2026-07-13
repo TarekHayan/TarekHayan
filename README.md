@@ -1,5 +1,4 @@
 # Tarek Hayan
-# Tarek Hayan
 
 <p align="center">
   <img src="hero_banner.png" alt="Tarek Hayan Hero Banner" width="100%">
@@ -9,7 +8,7 @@
 
 ---
 
-## 👋 Hello there!
+## 👋 Hello  World!
 
 I'm Tarek, a Flutter Developer from Egypt. I love building applications that are simple, scalable, maintainable, and enjoyable to use. I believe programming is more than writing code; it is about solving problems, understanding systems, and continuously learning.
 
