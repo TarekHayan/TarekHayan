@@ -1,8 +1,7 @@
 # Tarek Hayan
 
 <p align="center">
-  <img src="<img width="1254 height="1254" alt="شكل الشخصيه" src="https://github.com/user-attachments/assets/1084a068-d778-4e87-aa70-35ad00528205" />
-">
+  <img width="1254" height="1254" alt="Untitled design" src="https://github.com/user-attachments/assets/3b7af4a0-8712-4c2f-945c-d63fa1239788" />
 </p>
 
 ### Flutter Developer | Continuous Learner | Knowledge Sharer
