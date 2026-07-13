@@ -41,15 +41,6 @@ My journey as a developer is fueled by an insatiable curiosity. I'm always divin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekHayan&show_icons=true&theme=transparent&hide_border=true" alt="TarekHayan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekHayan&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekHayan&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🔗 Connect
 
