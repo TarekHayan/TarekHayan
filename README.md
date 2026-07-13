@@ -10,15 +10,22 @@
 
 ## 👋 Hello there!
 
-I'm Tarek, a Flutter Developer passionate about crafting elegant, scalable, and user-friendly applications. I believe in the power of thoughtful design and clean code to solve real-world problems.
+I'm Tarek, a Flutter Developer from Egypt. I love building applications that are simple, scalable, maintainable, and enjoyable to use. I believe programming is more than writing code; it is about solving problems, understanding systems, and continuously learning.
 
 ---
 
-## ✨ Featured Project
+## ✨ Featured Projects
+
+Here are some projects that best represent my work and passion for building clean Flutter applications:
 
 ### [Movie-App](https://github.com/TarekHayan/Movie-App)
+🎬 iFox - A modern, feature-rich movie discovery app built with Flutter and TMDB API. This project demonstrates my ability to integrate external APIs, manage state effectively, and create a smooth user experience. It reflects my commitment to crafting robust and engaging mobile applications.
 
-A modern, feature-rich movie browsing application built with Flutter. This project showcases my approach to building robust mobile applications, incorporating user authentication, real-time data from TMDB, and a clean architecture. It reflects my commitment to creating enjoyable and maintainable software experiences.
+### [Doc-Doc-App](https://github.com/TarekHayan/Doc-Doc-App)
+🏥 Doc-Doc - A professional healthcare management and doctor booking application built with Flutter. This project showcases my skills in developing complex UIs, handling data persistence, and implementing secure authentication flows, all while maintaining a focus on user-centric design.
+
+### [News-App](https://github.com/TarekHayan/News-App)
+📰 News App - Stay updated with the latest headlines globally using this sleek Flutter news aggregator. This application highlights my proficiency in consuming news APIs, displaying dynamic content, and ensuring a responsive layout across various devices.
 
 ---
 
@@ -47,6 +54,6 @@ My journey as a developer is fueled by an insatiable curiosity. I'm always divin
 ## 🔗 Connect
 
 *   **GitHub**: [TarekHayan](https://github.com/TarekHayan)
-*   **LinkedIn**: [Tarek Hayan](https://www.linkedin.com/in/tarekhayan/) (Please confirm this is the correct LinkedIn profile URL)
+*   **LinkedIn**: [Tarek Hayan](https://www.linkedin.com/in/tarekhayan/)
 *   **Email**: tarekhayan77@gmail.com
 *   **Portfolio**: (Please provide your portfolio URL if you have one)
