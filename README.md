@@ -1,4 +1,3 @@
-# Tarek Hayan
 
 <p align="center">
   <img width="1254" height="1254" alt="Untitled design" src="https://github.com/user-attachments/assets/3b7af4a0-8712-4c2f-945c-d63fa1239788" />
