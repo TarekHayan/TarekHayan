@@ -44,8 +44,8 @@ My journey as a developer is fueled by an insatiable curiosity. I'm always divin
 
 ## 🔗 Connect
 
-*   **GitHub**: [TarekHayan](https://github.com/TarekHaya)
-*   **LinkedIn**: [Tarek Hayan](www.linkedin.com/in/tarek-hayan-5633b2399)
+*   **GitHub**: [TarekHayan](https://github.com/TarekHayan)
+*   **LinkedIn**: [Tarek Hayan](https://www.linkedin.com/in/tarek-hayan-5633b2399/)
 *   **Email**: tarekhayan77@gmail.com
 
 <p align="center">
