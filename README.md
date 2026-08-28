@@ -5,11 +5,11 @@
 <h1 align="center">Tarek Hayan</h1>
 
 <p align="center">
-  <strong>Flutter Developer · Software Architecture · AI / RAG</strong>
+  <strong>Flutter Developer · Software Engineering</strong>
 </p>
 
 <p align="center">
-  I build maintainable cross-platform applications and explore the engineering principles behind reliable software.
+  I build maintainable cross-platform applications and use modern tools, including AI, to improve how I learn, build, and solve engineering problems.
 </p>
 
 ---
@@ -18,9 +18,9 @@
 
 I'm Tarek, a Flutter Developer from Egypt focused on building **clean, scalable, and maintainable software**.
 
-My current focus is growing beyond simply building screens: I care about **architecture, separation of concerns, testing, API integration, state management, and thoughtful engineering decisions**.
+I'm especially interested in **Software Engineering**: architecture, separation of concerns, state management, API integration, testing, and making practical engineering decisions without unnecessary complexity.
 
-I also explore **AI and Retrieval-Augmented Generation (RAG)**, with a focus on understanding how reliable retrieval and evidence-based systems are designed.
+I also use **AI as a development tool** across my workflow — for research, problem solving, learning, prototyping, code assistance, and exploring new technical ideas. RAG is one area I've explored through a project, but it is not my primary specialization.
 
 ---
 
@@ -29,14 +29,14 @@ I also explore **AI and Retrieval-Augmented Generation (RAG)**, with a focus on 
 ### 🧠 [Zekra](https://github.com/TarekHayan/Zekra_project)
 A cross-platform personal productivity application being built with an architecture-first approach.
 
-**Focus:** Flutter · Clean Architecture · Feature-first structure · Offline-first design · Arabic RTL · Cross-platform
+**Focus:** Flutter · Software Engineering · Clean Architecture · Feature-first structure · Offline-first design · Arabic RTL · Cross-platform
 
 > 🚧 Currently in the foundation and planning phase.
 
 ### 🤖 [Physiotherapist-RAG](https://github.com/TarekHayan/Physiotherapist-RAG)
-A medical Retrieval-Augmented Generation pipeline for clinical and physiotherapy practice guidelines.
+A medical Retrieval-Augmented Generation pipeline built to explore evidence retrieval and AI-assisted clinical information workflows.
 
-**Focus:** Python · RAG · Semantic Chunking · Embeddings · ChromaDB · Retrieval · Cross-Encoder Reranking · Gemini · Evaluation
+**Focus:** Python · RAG · Semantic Chunking · Embeddings · ChromaDB · Retrieval · Reranking · Gemini · Evaluation
 
 ### 🏥 [Doc-Doc-App](https://github.com/TarekHayan/Doc-Doc-App)
 A Flutter healthcare application focused on appointment and healthcare workflows.
@@ -52,38 +52,34 @@ A movie discovery application powered by TMDB, featuring authentication, search,
 
 ## 🛠️ Tech Stack
 
-**Mobile & Cross-platform**
+**Flutter & Development**
 
-`Flutter` `Dart` `Android` `Web` `Desktop`
+`Flutter` `Dart` `BLoC/Cubit` `Dio` `Retrofit` `Freezed` `GetIt` `Firebase` `Firestore`
 
-**Architecture & Engineering**
+**Software Engineering**
 
-`Clean Architecture` `Feature-first Architecture` `SOLID` `Design Patterns` `Separation of Concerns` `Git`
+`Software Architecture` `Clean Architecture` `Feature-first Architecture` `SOLID` `Design Patterns` `Separation of Concerns` `Testing` `Git`
 
-**Flutter Ecosystem**
+**AI & Development Tools**
 
-`BLoC/Cubit` `Dio` `Retrofit` `Freezed` `GetIt` `Firebase` `Firestore`
-
-**AI / Data**
-
-`Python` `RAG` `Embeddings` `ChromaDB` `Semantic Search` `Cross-Encoder Reranking`
+`AI-assisted Development` `Python` `RAG` `Embeddings` `Semantic Search` `ChromaDB`
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced **Flutter Architecture** and maintainable application design
-- **Software Architecture** and architectural decision-making
+- **Software Engineering** and architectural decision-making
 - **Testing** and software quality practices
 - **Data Structures & Algorithms** and problem-solving
-- **AI / RAG** systems and retrieval evaluation
-- **Git & GitHub** workflows and professional engineering practices
+- Using **AI effectively in software development workflows**
+- Professional **Git & GitHub** workflows
 
 ---
 
 ## 📝 Flutter Notes
 
-**Flutter Notes** is my personal learning initiative where I turn what I learn about Flutter, architecture, and software engineering into practical notes and educational content.
+**Flutter Notes** is my personal learning initiative where I turn what I learn about Flutter, Software Engineering, and development practices into practical notes and educational content.
 
 I believe that understanding **why** a solution works is more valuable than simply knowing **how** to write it.
 
